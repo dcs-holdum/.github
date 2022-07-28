@@ -1,0 +1,22 @@
+{
+  "history": [
+    {
+      "time": "data-string(yyyymmddhhmmss)",
+      "money": "number",
+      "earn": "number",
+      "percentage": "number"
+    },
+    {
+      "time": "data-string(yyyymmddhhmmss)",
+      "money": "number",
+      "earn": "number",
+      "percentage": "number"
+    },
+    {
+      "time": "data-string(yyyymmddhhmmss)",
+      "money": "number",
+      "earn": "number",
+      "percentage": "number"
+    }
+  ]
+}

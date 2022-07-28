@@ -1,0 +1,22 @@
+{
+  "today": "boolean",
+  "streak": "number",
+  "now": [
+    {
+      "time": "date-string(yyyymmddhhmmss)",
+      "streak": "number",
+      "earn": "number"
+    },
+    {
+      "time": "date-string(yyyymmddhhmmss)",
+      "streak": "number",
+      "earn": "number"
+    },
+    "None",
+    {
+      "time": "date-string(yyyymmddhhmmss)",
+      "streak": "number",
+      "earn": "number"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "time": "data-string(yyyymmddhhmmss)",
+  "streak": "number",
+  "earn": "number",
+  "already": "boolean"
+}

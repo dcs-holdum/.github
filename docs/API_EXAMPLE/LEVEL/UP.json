@@ -1,0 +1,7 @@
+{
+  "time": "data-string(yyyymmddhhmmss)",
+  "level": "number",
+  "successed": "boolean",
+  "percentage": "number",
+  "spend": "number"
+}
