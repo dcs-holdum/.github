@@ -1,5 +1,0 @@
-# PERCENTAGE
-
-## [ATTENDANCE](description/ATTENDANCE.md)
-
-

@@ -21,4 +21,4 @@
 
 - Attendance
   - 출석하기
-  - `GET /attendance/stamp/:userId`
+  - `POST /attendance/stamp/:userId`
